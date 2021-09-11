@@ -54,7 +54,7 @@
       <!-- Playlist -->
       <ol id="playlist">
         <li
-          class="flex justify-between items-center p-3 pl-6 cursor-pointer transition 
+          class="flex justify-between items-center p-3 pl-6 cursor-pointer transition
           duration-300 hover:bg-gray-50"
         >
           <div>
@@ -70,7 +70,7 @@
           </div>
         </li>
         <li
-          class="flex justify-between items-center p-3 pl-6 cursor-pointer transition 
+          class="flex justify-between items-center p-3 pl-6 cursor-pointer transition
           duration-300 hover:bg-gray-50"
         >
           <div>
@@ -86,7 +86,7 @@
           </div>
         </li>
         <li
-          class="flex justify-between items-center p-3 pl-6 cursor-pointer transition 
+          class="flex justify-between items-center p-3 pl-6 cursor-pointer transition
           duration-300 hover:bg-gray-50"
         >
           <div>
@@ -102,7 +102,7 @@
           </div>
         </li>
         <li
-          class="flex justify-between items-center p-3 pl-6 cursor-pointer transition 
+          class="flex justify-between items-center p-3 pl-6 cursor-pointer transition
           duration-300 hover:bg-gray-50"
         >
           <div>
@@ -308,7 +308,7 @@
   <!-- Auth Modal -->
   <div class="fixed z-10 inset-0 overflow-y-auto hidden" id="modal">
     <div
-      class="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center 
+      class="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center
       sm:block sm:p-0"
     >
       <div class="fixed inset-0 transition-opacity">
